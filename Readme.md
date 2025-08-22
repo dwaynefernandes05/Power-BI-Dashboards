@@ -75,6 +75,7 @@ This repository contains interactive dashboards created in **Power BI**. The das
  ┃ ┣ prime_video_dashboard.png
  ┃ ┣ airbnb_dashboard.png
  ┣ README.md
+```
 
  ---
 
