@@ -36,11 +36,11 @@ This repository contains interactive dashboards created in **Power BI**. The das
 
 **Airbnb:**
 
-<img src="images/airbnb.jpg" width="700"/>
+<img src="Images/airbnb.png" width="700"/>
 
 **Amazon:**
 
-<img src="images/amazon.png" width="700"/>
+<img src="Images/amazon.png" width="700"/>
 
 ---
 
